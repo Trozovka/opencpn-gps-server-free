@@ -6,7 +6,7 @@ Turns an Android phone into a Wi-Fi NMEA 0183 GPS server for [OpenCPN](https://o
 
 This is the free **Free** tier: fully functional, but each server session auto-stops after 1 minute and needs a manual restart. A [Pro version](#pro-version) with unlimited runtime is sold separately.
 
-Developed by **John Winsome Munar** ([Trozovka](https://github.com/Trozovka) on GitHub).
+Developed by **[Trozovka](https://github.com/Trozovka) (John Winsome Munar)**.
 
 ## Screenshots
 
@@ -67,4 +67,4 @@ A Pro version with unlimited server runtime (one-time purchase) is available sep
 
 MIT - see [LICENSE](LICENSE) for the full text.
 
-Copyright (c) 2026 John Winsome Munar (Trozovka). Original Author: John Winsome Munar (Trozovka). All derivative works must retain the [NOTICE](NOTICE) file's attribution. Not a fork of, or derived from, any other project's source.
+Copyright (c) 2026 Trozovka (John Winsome Munar). Original Author: Trozovka (John Winsome Munar). All derivative works must retain the [NOTICE](NOTICE) file's attribution. Not a fork of, or derived from, any other project's source.
